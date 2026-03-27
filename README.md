@@ -22,14 +22,26 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 # IP CONNECTIVITY TABLE
 
+# IP CONNECTIVITY TABLE
+| NAME | IP ADDRESS     | SUBNET MASK     | NETWORK      | CLASS   |
+|------|----------------|-----------------|--------------|---------|
+| PCO  | 192.168.1.10   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC1  | 192.168.1.30   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC2  | 192.168.1.20   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC3  | 192.168.2.20   | 255.255.255.0   | 192.168.1.2  | Class C |
+| PC4  | 192.168.2.30   | 255.255.255.0   | 192.168.1.2  | Class C |
+| PC5  | 192.168.2.10   | 255.255.255.0   | 192.168.1.2  | Class C |
+
 
 
 # NETWORK DIAGRAM
+<img width="661" height="546" alt="image" src="https://github.com/user-attachments/assets/e7974709-f9d3-4f79-9e40-7cff4ae5ab86" />
 
 
 
 
 # OUTPUT
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/8c513c23-50fb-4467-8718-e64c0140b197" />
 
 
 # RESULT
